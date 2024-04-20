@@ -21,7 +21,7 @@ public:
                 
                 for (int k = i; k <= r2;k++)
                     for (int l = j; l <= c2; l++)
-                        land[ak][l] = 0;
+                        land[k][l] = 0;
             }
         }
         
